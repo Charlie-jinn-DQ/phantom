@@ -36,7 +36,7 @@ PM_START_TEXT = """
 ┈╰╯┃┈┈┈┈┈┈┃╰╯┈
 ┈┈┈╰┓┏━━┓┏╯┈┈┈
 ┈┈┈┈╰╯┈┈╰╯┈┈┈┈
-HAI {} 😍, MY NAME IS {} !
+H0I *{}* 😍, My name is *{}* !
 
 I am a group manager Bot😎 maintained by this [Sexy Mahn ](tg://user?id={}).
 
@@ -45,7 +45,7 @@ Click /help to find out more about how to use me to my full potential.
 Want to [ADD ME](http://t.me/AmTheRobot?startgroup=true) on your group.
 
 I'm built in python3,using python-telegram-Bot library by this [Legend](t.me/charlie_jin).
-My SOURCE CODE is available to you [HERE](https://github.com/ashkar2001/TgRobot)🔥
+My SOURCE CODE is available to you [HERE](https://telegra.ph/file/c99524969744ed621f491.jpg)🔥
 
 """
 
