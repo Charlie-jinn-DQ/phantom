@@ -28,25 +28,24 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
+┈┈┈┈╲┈┈┈┈╱┈┈┈┈
 ┈┈┈┈╱▔▔▔▔╲┈┈┈┈
-┈┈┈▕▕╲┊┊╱▏▏┈┈┈
-┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-┈┈┈┈╲┊┊┊┊╱┈┈┈┈
-┈┈┈┈▕╲▂▂╱▏┈┈┈┈
-╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {}, MY NAME IS {} !
+┈┈┈┃┈▇┈┈▇┈┃┈┈┈
+┈╭╮┣━━━━━━┫╭╮┈
+┈┃┃┃WelComE┃┃┃┈
+┈╰╯┃┈┈┈┈┈┈┃╰╯┈
+┈┈┈╰┓┏━━┓┏╯┈┈┈
+┈┈┈┈╰╯┈┈╰╯┈┈┈┈
+HAI {} 😍, MY NAME IS {} !
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
+I am a group manager Bot😎 maintained by this [Sexy Mahn ](tg://user?id={}).
 
-[THIS LEGEND](tg://user?id={}).
+Click /help to find out more about how to use me to my full potential.
 
-HIT HELP FOR COMMANDS  /help
+Want to [ADD ME](http://t.me/AmTheRobot?startgroup=true) on your group.
 
-I AM COMPLETELY OPEN SOURCE
-
-MY SOURCE CODE IS AVAILABLE TO YOU
-
-[HERE](https://github.com/leobrownlee/phantom)
+I'm built in python3,using python-telegram-Bot library by this [Legend](t.me/charlie_jin).
+My SOURCE CODE is available to you [HERE](https://github.com/ashkar2001/TgRobot)🔥
 
 """
 
